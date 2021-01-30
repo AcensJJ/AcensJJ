@@ -5,9 +5,6 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/AcensJJ/AcensJJ/issues/new"><b>here</b></a> or <a href="mailto:jacens@student.42lyon.fr"><b>email</b></a> me.
 
-## Github Stats :
-<h2>Stats</h2>
-
 ## info profile
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AcensJJ&show_icons=true)](https://github.com/AcensJJ/github-readme-stats)
 
