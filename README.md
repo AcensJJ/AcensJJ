@@ -1,9 +1,11 @@
 <div align="center">
-  <img alt="jacens" height="208em" src="https://user-images.githubusercontent.com/45235527/106356361-58be9680-62ff-11eb-8a68-ebb44ee7bed3.gif"/>
+  <img alt="jacens" src="https://user-images.githubusercontent.com/45235527/106356688-cf5c9380-6301-11eb-87e1-6b2ea6be3806.gif"/>
 </div>
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/AcensJJ/AcensJJ/issues/new"><b>here</b></a> or <a href="mailto:jacens@student.42lyon.fr"><b>email</b></a> me.
+<p align="left" style="padding:25px">
+<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/AcensJJ/AcensJJ/issues/new"><b>here</b></a> or <a href="mailto:jacens@student.42lyon.fr"><b>email</b></a> me.  <br>
+</p>
 
 <div align="center">
   <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg"/>
