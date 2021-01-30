@@ -2,7 +2,7 @@
   <img alt="jacens" src="https://user-images.githubusercontent.com/45235527/106356790-7c371080-6302-11eb-8274-31ed5ffe91bf.gif"/>
 </div>
 
-<p align="left" style="padding:25px">
+<p align="left">
 <br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/AcensJJ/AcensJJ/issues/new"><b>here</b></a> or <a href="mailto:jacens@student.42lyon.fr"><b>email</b></a> me.  <br>
 </p>
