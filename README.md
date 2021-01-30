@@ -2,13 +2,13 @@
   <img alt="jacens" src="https://user-images.githubusercontent.com/45235527/106356790-7c371080-6302-11eb-8274-31ed5ffe91bf.gif"/>
 </div>
 
-### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> School
+### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
 <div align="center">
   <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg"/>
 </div>
 
-### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="School"/> &nbsp;GitHub Analytics
+### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="Analytics"/> &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AcensJJ">
@@ -16,6 +16,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### <img height="30em" src="https://img.icons8.com/ios/344/laptop-coding.png" alt="School"/> &nbsp;Langage Learn
 
 <p align="center">
 	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
