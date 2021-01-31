@@ -12,8 +12,8 @@
 
 <p align="center">
 <a href="https://github.com/AcensJJ">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcensJJ&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcensJJ&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=vue"/>
 </a>
 </p>
 
@@ -71,7 +71,7 @@ while(dev.isCoding(status._workingOn) && dev.isStuck(status._lerning))
 #
 
 <div align="center">
-  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AcensJJ&layout=compact&theme=nightowl"   alt="acens-skl" />
+  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AcensJJ&layout=compact&theme=flag-india"   alt="acens-skl" />
 </div>
 
 <p align="center">
