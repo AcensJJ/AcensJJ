@@ -32,15 +32,10 @@ var status =
 const skills = 
 {
   languages   :[C, Csharp, Cpp, Bash, Html, Css, Php, Javascript, Ruby],
-  
   technologies:[Docker, Docker Compose, Kubernetes, Grafana, Influxdb, Telegraf, Wordpress, PhpMyAdmin, Wamp],
-  
   ide         :[Vs Code, ,Android Studio],
-  
   libraries   :[Jquery, Axions],
-  
   frameworks  :[Bootstrap, Symfony],
-  
   databases   :[MySql, PostgreSQL, Linked List, Binary Tree]
 }
 
