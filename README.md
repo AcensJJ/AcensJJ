@@ -44,8 +44,8 @@ import SoftwareDeveloper from 'Jacens';
 
 var status = 
 { 
-  learning : [Ruby],
-  current-project: [Webserv, Containers]
+  _learning : [Ruby],
+  _workingOn: [Webserv, Containers]
 }
 
 class Skills extends SoftwareDeveloper {
@@ -58,7 +58,7 @@ class Skills extends SoftwareDeveloper {
 }
 
 Developer dev = new Developer(AcensJJ);
-while(dev.isCoding() && dev.isStuck())  
+while(dev.isCoding(status._workingOn) && dev.isStuck(status._lerning))  
 {
   dev.openBrowser();
   dev.openStackOverFlow();
