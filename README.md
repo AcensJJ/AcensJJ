@@ -17,7 +17,7 @@
 </a>
 </p>
 
-### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Language Learn
+### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Languages Learn
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
