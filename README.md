@@ -70,7 +70,7 @@ while(dev.isCoding(status._workingOn) && dev.isStuck(status._lerning))
 #
 
 <div align="center">
-  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AcensJJ&layout=compact"   alt="acens-skl" />
+  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AcensJJ&layout=compact&theme=nightowl"   alt="acens-skl" />
 </div>
 
 <p align="center">
