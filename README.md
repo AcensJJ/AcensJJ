@@ -50,12 +50,12 @@ var status =
 }
 
 class Skills extends SoftwareDeveloper {
-  languages    = ['C', 'C#', 'Cpp', 'Python','Bash', 'Html', 'Css', 'Php', 'Javascript', 'Ruby', 'Asm'];
-  technologies = ['Docker', 'Kubernetes', 'Grafana', 'Influxdb', 'Wordpress', 'PhpMyAdmin', 'Wamp'];
+  languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Php', 'Javascript', 'Ruby', 'Asm'];
+  technologies = ['Docker', 'Kubernetes', 'Grafana', 'Wordpress', 'PhpMyAdmin', 'Wamp'];
   ide          = ['Vs Code', 'Android Studio'];
   libraries    = ['Jquery', 'Axions'];
   frameworks   = ['Bootstrap', 'Symfony'];
-  databases    = ['MySql', 'PostgreSQL', 'Linked List', 'Binary Tree'];
+  databases    = ['MySql', 'PostgreSQL', 'Influxdb', 'Linked List', 'Binary Tree'];
 }
 
 Developer dev = new Developer(AcensJJ);
