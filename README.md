@@ -45,7 +45,7 @@ import SoftwareDeveloper from 'Jacens';
 var status = 
 { 
   learning : [Ruby],
-  current project: [Webserv, Containers]
+  current-project: [Webserv, Containers]
 }
 
 class Skills extends SoftwareDeveloper {
