@@ -17,7 +17,7 @@
 </a>
 </p>
 
-### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Langage Learn
+### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Language Learn
 
 <p align="center">
 	<a href="https://github.com/AcensJJ"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
