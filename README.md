@@ -54,6 +54,8 @@ while(dev.isCoding() && dev.isStuck())
 }
 ```
 
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AcensJJ&layout=compact" alt="acens-skl" />
+
 <p align="center">
 	<a href="https://github.com/AcensJJ"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
