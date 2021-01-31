@@ -39,7 +39,7 @@
 
 document.write("Hello World");
 
-import SoftwareDeveloper from 'AcencsJeanJacques';
+import SoftwareDeveloper from 'Jacens';
 
 var status = 
 { 
