@@ -68,8 +68,6 @@ while(dev.isCoding(status._workingOn) && dev.isStuck(status._lerning))
 }
 ```
 
-#
-
 <div align="center">
   <img height="300em" align="center" src="https://media0.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" />
   <img align="center" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
