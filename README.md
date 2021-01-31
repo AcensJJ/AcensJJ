@@ -2,6 +2,12 @@
   <img alt="jacens" src="https://user-images.githubusercontent.com/45235527/106356790-7c371080-6302-11eb-8274-31ed5ffe91bf.gif"/>
 </div>
 
+<div align="center">
+  <img align="center" src="https://media0.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" />
+	
+  <img align="center" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+</div>
+
 ### <img height="30em" src="https://img.icons8.com/emoji/344/school-emoji.png" alt="School"/> &nbsp;School
 
 <div align="center">
