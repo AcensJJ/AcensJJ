@@ -19,6 +19,39 @@
 
 ### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Language Learn
 
+```js
+
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [Ruby],
+  current project: [Webserv, Ft Containers]
+}
+
+const skills = 
+{
+  languages :[C, Csharp, Cpp, Bash, Html, Css, Php, Javascript, Ruby],
+  
+  ide       :[Vs Code, ,Android Studio],
+  
+  libraries :[Jquery, Axions],
+  
+  frameworks:[Bootstrap, Symfony],
+  
+  databases :[MySql, PostgreSQL, Linked List, Binary Tree]
+}
+
+Developer dev = new Developer(AcensJJ);
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+```
+
 <p align="center">
 	<a href="https://github.com/AcensJJ"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
