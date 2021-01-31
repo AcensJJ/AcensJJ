@@ -34,6 +34,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
+##
 
 ```js
 
@@ -65,6 +66,8 @@ while(dev.isCoding() && dev.isStuck())
   dev.feelProfessional();
 }
 ```
+
+#
 
 <div align="center">
   <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AcensJJ&layout=compact"   alt="acens-skl" />
