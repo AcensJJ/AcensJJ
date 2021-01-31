@@ -50,7 +50,7 @@ var status =
 }
 
 class Skills extends SoftwareDeveloper {
-  languages    = ['C', 'Csharp', 'Cpp', 'Python','Bash', 'Html', 'Css', 'Php', 'Javascript', 'Ruby', 'Asm'];
+  languages    = ['C', 'C#', 'Cpp', 'Python','Bash', 'Html', 'Css', 'Php', 'Javascript', 'Ruby', 'Asm'];
   technologies = ['Docker', 'Kubernetes', 'Grafana', 'Influxdb', 'Wordpress', 'PhpMyAdmin', 'Wamp'];
   ide          = ['Vs Code', 'Android Studio'];
   libraries    = ['Jquery', 'Axions'];
@@ -59,7 +59,7 @@ class Skills extends SoftwareDeveloper {
 }
 
 Developer dev = new Developer(AcensJJ);
-while(dev.isCoding(status._workingOn) && dev.isStuck(status._lerning))  
+while(dev.isCoding(status._workingOn) && dev.isStuck(status._learning))  
 {
   dev.openBrowser();
   dev.openStackOverFlow();
