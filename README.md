@@ -55,7 +55,7 @@ class Skills extends SoftwareDeveloper {
   ide          = ['Vs Code', 'Android Studio'];
   libraries    = ['Jquery', 'Axions'];
   frameworks   = ['Bootstrap', 'Symfony'];
-  databases    = ['MySql', 'PostgreSQL', 'Influxdb', 'Linked List', 'Binary Tree'];
+  databases    = ['MySql', 'PostgreSQL', 'Influxdb'];
 }
 
 Developer dev = new Developer(AcensJJ);
