@@ -49,12 +49,12 @@ import SoftwareDeveloper from 'Jacens';
 
 var status = 
 { 
-  _learning : [Ruby],
-  _workingOn: [Webserv]
+  _learning : [Node.js],
+  _workingOn: [Ft_transcendence]
 }
 
 class Skills extends SoftwareDeveloper {
-  languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Php', 'Javascript', 'Asm'];
+  languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Php', 'Javascript', 'Asm', 'Node.js'];
   technologies = ['Docker', 'Kubernetes', 'Grafana', 'Wordpress', 'PhpMyAdmin', 'Wamp'];
   ide          = ['Vs Code', 'Android Studio'];
   libraries    = ['Jquery', 'Axions'];
