@@ -29,7 +29,7 @@
 
 <a href="https://github.com/search?q=user%3AAcensJJ+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3AAcensJJ+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3AAcensJJ+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AAcensJJ+is%3Arepo+language%3Anodejs"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white"></a>
 
 <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony%20-%23111111.svg?logo=symfony&logoColor=white"></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
