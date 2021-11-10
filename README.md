@@ -8,13 +8,20 @@
   <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg"/>
 </div>
 
+<p align="center">
+  <a href="https://github.com/mohouyizme/1337-readme">
+    <img height="300em" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=jacens"/>
+  </a>
+</p>
+
+
 ### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="Analytics"/> &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AcensJJ">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcensJJ&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=vue"/>
-</a>
+  <a href="https://github.com/AcensJJ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcensJJ&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=vue"/>
+  </a>
 </p>
 
 ### <img height="30em" src="https://img.icons8.com/color/344/console.png" alt="School"/> &nbsp;Languages Learn
