@@ -56,8 +56,8 @@ import SoftwareDeveloper from 'Jacens';
 
 var status = 
 { 
-  _learning : [IA],
-  _workingOn: [Ft_linear_regression]
+  _learning : [backtracking],
+  _workingOn: [rubbik, n-puzzle]
 }
 
 class Skills extends SoftwareDeveloper {
