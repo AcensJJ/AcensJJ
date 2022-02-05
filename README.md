@@ -9,10 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/mohouyizme/1337-readme">
-    <--!<img height="300em" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=jacens"/>-->
     <img height="300em" src="https://badge42.herokuapp.com/api/stats/jacens"/>
-  </a>
 </p>
 
 
