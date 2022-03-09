@@ -8,11 +8,6 @@
   <img alt="42" src="https://user-images.githubusercontent.com/45235527/106354618-6ec65a00-62f3-11eb-8688-ba9e0f4e77de.jpg"/>
 </div>
 
-<p align="center">
-    <img height="300em" src="https://badge42.herokuapp.com/api/stats/jacens"/>
-</p>
-
-
 ### <img height="30em" src="https://img.icons8.com/fluent/344/download-pie-chart-report.png" alt="Analytics"/> &nbsp;GitHub Analytics
 
 <p align="center">
@@ -54,8 +49,8 @@ import SoftwareDeveloper from 'Jacens';
 
 var status = 
 { 
-  _learning : [security],
-  _workingOn: [darkly]
+  _learning : [NodeJs],
+  _workingOn: [null]
 }
 
 class Skills extends SoftwareDeveloper {
