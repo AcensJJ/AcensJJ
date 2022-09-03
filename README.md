@@ -57,7 +57,7 @@ class Skills extends SoftwareDeveloper {
   languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Php', 'Javascript', 'Asm', 'Node.js'];
   technologies = ['Docker', 'Kubernetes', 'Grafana', 'Wordpress', 'PhpMyAdmin', 'Wamp'];
   ide          = ['Vs Code', 'Android Studio'];
-  libraries    = ['Jquery', 'Axions'];
+  libraries    = ['Jquery', 'Axios'];
   frameworks   = ['Bootstrap', 'Symfony', 'NestJS', 'Angular'];
   databases    = ['MySql', 'PostgreSQL', 'Influxdb'];
 }
