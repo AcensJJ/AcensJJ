@@ -54,7 +54,7 @@ var status =
 }
 
 class Skills extends SoftwareDeveloper {
-  languages    = ['C', 'C#', 'Cpp', 'Python', 'Bash', 'Html', 'Css', 'Php', 'Javascript', 'Asm', 'Node.js', 'Angular', 'NestJS'];
+  languages    = ['C', 'C#', 'Cpp','Angular', 'NestJS', 'Node.js', 'Python', 'Bash', 'Javascript', 'Asm'];
   technologies = ['Docker', 'Kubernetes', 'Grafana', 'Wordpress', 'PhpMyAdmin', 'Wamp'];
   ide          = ['Vs Code', 'Android Studio'];
   libraries    = ['Jquery', 'Axios'];
